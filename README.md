@@ -10,7 +10,8 @@ While each line in the demo fades out before the next one appears, this behavior
 
 ## Demo
 
-<img src=".assets/demo.png" width="1072">
-<video src=".assets/demo.mov">
+<img src=".assets/demo.png" width="1072"/>
+
+>   Video at `.assets/demo.mov`.
 
 The frames of lines are drawn for debugging.
